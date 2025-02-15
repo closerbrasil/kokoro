@@ -122,3 +122,6 @@ __tests__/
 test/
 tests/
 testing/
+
+gpu
+.md
